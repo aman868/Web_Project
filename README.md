@@ -5,9 +5,10 @@
  Here you get some of pre-designed code for your project.
  <br>
  <br>
-
+<h4>
 There are some platform to contact me for any kind of help.
-<br>
+</h4>
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
